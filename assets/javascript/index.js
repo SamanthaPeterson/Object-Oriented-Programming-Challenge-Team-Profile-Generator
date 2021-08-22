@@ -8,13 +8,68 @@
 // ├── index.js // runs the application
 // └── package.json
 
+function employeeName (name) {
+    this.name = name 
+    this.getName = function () {
+        return this.name
+    }
+      // Add a `setBalance()` function
+    this.setName = function (value) {
+        this.balance= value
+    };
+    // Add a `deposit()` function
+    this.depositName = function (value) {
+        // Bonus code
+        if (typeof value !== 'number' || value <= 0) {
+            throw new Error("'value' must be a positive number!");
+        }
+        let newBalance = this.getBalance() + value;
+        this.setBalance(newBalance);
+        console.log(`Deposited ${value}!`);
+    };
+    // Add a `withdraw()` function
+    this.withdraw = function (value) {
+        // Bonus code
+        if (typeof value !== 'number' || value <= 0) {
+            throw new Error("'value' must be a positive number");
+        }
+        let newBalance = this.getBalance() - value;
+        // Bonus code
+        if (newBalance < 0) {
+            throw new Error('Insufficient funds for this transaction');
+        }
+        this.setBalance(newBalance);
+        console.log(`Withdrew ${value}!`);
+    };
+    this.printName = function () {
+        console.log(`Name: ${this.getName()}`);
+    };
+    }
 
+    // =============================================================
+    // PART 2
+
+    // Create a new `bank` object
+    let bank = new MiniBank(0);
+
+    // Print the `bank` balance
+    bank.printBalance();
+
+    // Deposit some money and then print the `bank` balance
+    bank.deposit(85);
+    bank.printBalance();
+
+    // Withdraw some money and then print the `bank` balance
+    bank.withdraw(20);
+    bank.printBalance();
+
+};
 // The application must have these classes: Employee, Manager, Engineer, and Intern.The tests
 // for these classes( in the _tests_ directory) must all pass.
 
 // The first class is an Employee parent class with the following properties and methods:
 
-//     name
+//name
 
 // id
 
@@ -27,6 +82,20 @@
 // getEmail()
 
 // getRole() // Returns 'Employee'
+
+function Person(first, last, age, eyecolor) {
+    this.firstName = first;
+    this.lastName = last;
+    this.id = id
+    this.email =email
+    this.role = role;
+    
+}
+
+const employee = new Person("John", "Doe", id, email, "employee");
+const engineer = new Person("Sally", "Rally", id, email, "engineer");
+const manager = new Person("Sally", "Rally", id, email, "manager");
+const intern = new Person("Sally", "Rally", id, email, "intern");
 
 // The other three classes will extend Employee.
 
