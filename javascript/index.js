@@ -2,7 +2,7 @@
 const fs = require('fs');
 const path = require('path');
 const express = require('express');
-const express = require('node');
+const node = require('node');
 const {
     employee
 } = require('./data/team');
