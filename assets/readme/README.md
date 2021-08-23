@@ -13,6 +13,7 @@
 [Questions](#questions)
 ## Description 
 Project Description Object-Oriented Programming Challenge-Team Profile Generator  
+
 ## Installation 
 Requirements for this project: Node, inquirer, Pretty error. Visit the npm website as well as the node website. 
 Node - https://nodejs.org/en/ 
@@ -22,7 +23,18 @@ Object-Oriented Programming Challenge-Team Profile Generator
 
  npm i utils --save
 
-
+https://www.npmjs.com/package/utils
+https://www.npmjs.com/package/socket.io
+https://www.npmjs.com/package/axios
+https://www.npmjs.com/package/express
+https://www.npmjs.com/package/nodemon
+https://www.npmjs.com/package/node
+https://www.npmjs.com/package/commander
+https://www.npmjs.com/package/jsdoc
+https://www.npmjs.com/package/jscpd-html-reporter
+https://www.npmjs.com/package/gulp-preprocess
+https://www.npmjs.com/package/lodash
+https://www.npmjs.com/package/deep-diff
 
 ## Usage
 Instructions and examples here 
