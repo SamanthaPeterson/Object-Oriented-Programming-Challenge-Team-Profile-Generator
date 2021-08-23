@@ -20,6 +20,9 @@ NPM - https://www.npmjs.com/
 Inquirer Package - https://www.npmjs.com/package/inquirer
 Object-Oriented Programming Challenge-Team Profile Generator
 
+ npm i utils --save
+
+
 
 ## Usage
 Instructions and examples here 
