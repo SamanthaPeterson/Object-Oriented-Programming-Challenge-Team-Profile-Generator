@@ -198,6 +198,21 @@ const addEmployee = async (array) => {
 // Function call to initialize app
 init();
 
+
+//Break
+
+function createNewEmployee(body, createNewEmployeeArray) {
+  const createNewEmployee = body;
+  createNewEmployeeArray.push(createNewEmployee);
+  fs.writeFileSync(
+    path.join(__dirname, './data/employee.json'),
+    JSON.stringify({
+      employee: createNewEmployeeArray
+    }, null, 2)
+  );
+  return employee;
+}
+
 //Break
 
 
