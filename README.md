@@ -2,7 +2,7 @@
  10. Object-Oriented Programming Challenge: Team Profile Generator
 
 
-# Node Readme Generator
+# Object-Oriented Programming Challenge-Team Profile Generator
 ##Table of Contents 
 [Description](#description)
 [Installation](#installation)
@@ -12,23 +12,33 @@
 [Testing](#testing)
 [Questions](#questions)
 ## Description 
-Project Description This project was designed and created to make a professional generator using Node js. Implementing this project as a part of your GitHub repos will help to provide consistent and cohesive read me files. My hope is that this project will be fairly user friendly so that the user can easily answer prompts or questions in the integrated terminal.  
+Project Description Object-Oriented Programming Challenge-Team Profile Generator  
 ## Installation 
 Requirements for this project: Node, inquirer, Pretty error. Visit the npm website as well as the node website. 
 Node - https://nodejs.org/en/ 
 NPM - https://www.npmjs.com/
 Inquirer Package - https://www.npmjs.com/package/inquirer
+Object-Oriented Programming Challenge-Team Profile Generator
+
 
 ## Usage
-Instructions and examples here https://youtu.be/FY1miIUxYdI 
+Instructions and examples here 
+
+Object-Oriented Programming Challenge-Team Profile Generator
+
+https://youtu.be/FY1miIUxYdI 
+
 ## License
 mit
+
 ## Contributing
-undefined
+undefined Object-Oriented Programming Challenge-Team Profile Generator
+
 ## Testing
-undefined
+undefined Object-Oriented Programming Challenge-Team Profile Generator
+
 ## Questions 
 (undefined)
 photographer.samantha@live.com
-Screen Shot 2021-08-15 at 10.51.36 PM.png
+Object-Oriented Programming Challenge-Team Profile Generator
 
