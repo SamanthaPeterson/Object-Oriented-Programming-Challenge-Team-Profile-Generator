@@ -2,7 +2,5 @@ node_modules
 style.css
 example.html
 package-lock.json
-index.js
-
 .env
 dotenv
