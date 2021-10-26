@@ -6,3 +6,6 @@ index.js
 pf.js
 pf2.js
 pf3.js
+
+.env
+dotenv
