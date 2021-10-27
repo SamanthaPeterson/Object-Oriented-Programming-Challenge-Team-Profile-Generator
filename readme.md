@@ -19,7 +19,7 @@
 ## Brief Summary 
 
 Object-Oriented Programming Challenge: Team Profile Generator
- 
+ https://youtu.be/_IWLBBBxt3o
 
 ## Screenshot
 <img width=" ">
@@ -28,7 +28,7 @@ Object-Oriented Programming Challenge: Team Profile Generator
 
 
 Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
- click here to watch the walk through video https://youtu.be/V4YOchf2pCY
+ click here to watch the walk through video https://youtu.be/_IWLBBBxt3o
 
    
   </p>
@@ -86,7 +86,7 @@ Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
    ```sh
     https://Object-Oriented Programming Challenge: Team Profile Generator
     
-    https://youtu.be/V4YOchf2pCY
+https://youtu.be/_IWLBBBxt3o
    ```
 2. Enter cObject-Oriented Programming Challenge: Team Profile Generator
 Step 2Object-Oriented Programming Challenge: Team Profile Generator
