@@ -1,5 +1,3 @@
-# Object-Oriented Programming Challenge: Team Profile Generator 10
-
 
 <!-- PROJECT LOGO -->
 <br />
