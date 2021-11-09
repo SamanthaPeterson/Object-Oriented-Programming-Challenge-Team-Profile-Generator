@@ -82,12 +82,12 @@ Click this link to view the project https://github.com/SamanthaPeterson/NoSQL-18
 ### Installation
 
 1. Click on the Object-Oriented Programming Challenge: Team Profile Generator
-   ```sh
+
     https://Object-Oriented Programming Challenge: Team Profile Generator
     
 https://youtu.be/_IWLBBBxt3o
-   ```
-2. Enter cObject-Oriented Programming Challenge: Team Profile Generator
+
+1. Enter cObject-Oriented Programming Challenge: Team Profile Generator
 Step 2Object-Oriented Programming Challenge: Team Profile Generator
 
 
