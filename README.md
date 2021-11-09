@@ -22,6 +22,7 @@ Object-Oriented Programming Challenge: Team Profile Generator
 ## Screenshot
 <img width=" ">
 
+<img width="1427" alt="Screen Shot 2021-11-09 at 8 39 02 AM" src="https://user-images.githubusercontent.com/85209802/140955569-450e6022-634b-4f3c-9dac-602f94fb3a77.png">
 
 
 
