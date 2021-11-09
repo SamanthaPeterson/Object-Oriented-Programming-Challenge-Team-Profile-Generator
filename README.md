@@ -20,6 +20,9 @@ Object-Oriented Programming Challenge: Team Profile Generator
  https://youtu.be/_IWLBBBxt3o
 
 ## Screenshot
+  ![Screen Shot 2021-11-09 at 8 55 06 AM](https://user-images.githubusercontent.com/85209802/140958616-dd0dccb0-b450-4a2d-bccb-3e723b5a4e63.png)
+
+  
 
 Run tests with jest https://youtu.be/Divvx4IY0ww
 <img width="1427" alt="Screen Shot 2021-11-09 at 8 39 02 AM" src="https://user-images.githubusercontent.com/85209802/140955569-450e6022-634b-4f3c-9dac-602f94fb3a77.png">
